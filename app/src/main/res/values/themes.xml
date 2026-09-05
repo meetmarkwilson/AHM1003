@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.ArkansasHomeMortgage" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/ahm_teal</item>
+        <item name="android:navigationBarColor">@color/ahm_light</item>
+        <item name="android:statusBarColor">@color/ahm_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
